@@ -7,6 +7,7 @@ var obj = {
 	variable04: v4,
 	"sdsfdsf": 123,
 	"sdsfdsf": 456,
+	sssssss: true,
 	variable08: v8,
 	variable09: v9,
 	variable11: v11,
