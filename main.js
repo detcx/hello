@@ -5,5 +5,6 @@ var obj = {
 	variable02: v2,
 	variable03: v3,
 	variable04: v4,
-	variable08: v8
+	variable08: v8,
+	variable09: v9
 }
