@@ -9,6 +9,7 @@ var obj = {
 	"sdsfdsf": 456,
 	sdfsdf: false,
 	sdfns: null,
+	sssssss: true,
 	variable08: v8,
 	variable09: v9,
 	variable11: v11,
